@@ -23,12 +23,6 @@
 		<None Remove="Assets\Images\Mobile_Phones.png" />
 		<None Remove="Assets\Images\Samsung-S23.png" />
 	</ItemGroup>
-
-	<ItemGroup>
-		<Content Include="appsettings.json">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-		</Content>
-	</ItemGroup>
 	
 	
 	
@@ -55,6 +49,10 @@
 		<Resource Include="Assets\Images\Mac-book-pro.png" />
 		<Resource Include="Assets\Images\Mobile_Phones.png" />
 		<Resource Include="Assets\Images\Samsung-S23.png" />
+	</ItemGroup>
+ 
+	<ItemGroup>
+	  <Folder Include="Views\Main Windows\" />
 	</ItemGroup>
 
 </Project>

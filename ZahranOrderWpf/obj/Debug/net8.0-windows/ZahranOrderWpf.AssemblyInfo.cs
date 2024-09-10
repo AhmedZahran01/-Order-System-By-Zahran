@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZahranOrderWpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c352ab7daea3636f8e84bed5f7a384b088468d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZahranOrderWpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZahranOrderWpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
