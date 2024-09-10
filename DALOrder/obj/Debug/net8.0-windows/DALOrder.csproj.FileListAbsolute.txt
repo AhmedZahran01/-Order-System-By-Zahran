@@ -1,0 +1,11 @@
+D:\Zahran\ZahranOrderWpf\DALOrder\bin\Debug\net8.0-windows\DALOrder.deps.json
+D:\Zahran\ZahranOrderWpf\DALOrder\bin\Debug\net8.0-windows\DALOrder.dll
+D:\Zahran\ZahranOrderWpf\DALOrder\bin\Debug\net8.0-windows\DALOrder.pdb
+D:\Zahran\ZahranOrderWpf\DALOrder\obj\Debug\net8.0-windows\DALOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zahran\ZahranOrderWpf\DALOrder\obj\Debug\net8.0-windows\DALOrder.AssemblyInfoInputs.cache
+D:\Zahran\ZahranOrderWpf\DALOrder\obj\Debug\net8.0-windows\DALOrder.AssemblyInfo.cs
+D:\Zahran\ZahranOrderWpf\DALOrder\obj\Debug\net8.0-windows\DALOrder.csproj.CoreCompileInputs.cache
+D:\Zahran\ZahranOrderWpf\DALOrder\obj\Debug\net8.0-windows\DALOrder.dll
+D:\Zahran\ZahranOrderWpf\DALOrder\obj\Debug\net8.0-windows\refint\DALOrder.dll
+D:\Zahran\ZahranOrderWpf\DALOrder\obj\Debug\net8.0-windows\DALOrder.pdb
+D:\Zahran\ZahranOrderWpf\DALOrder\obj\Debug\net8.0-windows\ref\DALOrder.dll

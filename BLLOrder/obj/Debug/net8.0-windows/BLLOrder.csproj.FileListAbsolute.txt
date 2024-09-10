@@ -1,0 +1,11 @@
+D:\Zahran\ZahranOrderWpf\BLLOrder\bin\Debug\net8.0-windows\BLLOrder.deps.json
+D:\Zahran\ZahranOrderWpf\BLLOrder\bin\Debug\net8.0-windows\BLLOrder.dll
+D:\Zahran\ZahranOrderWpf\BLLOrder\bin\Debug\net8.0-windows\BLLOrder.pdb
+D:\Zahran\ZahranOrderWpf\BLLOrder\obj\Debug\net8.0-windows\BLLOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zahran\ZahranOrderWpf\BLLOrder\obj\Debug\net8.0-windows\BLLOrder.AssemblyInfoInputs.cache
+D:\Zahran\ZahranOrderWpf\BLLOrder\obj\Debug\net8.0-windows\BLLOrder.AssemblyInfo.cs
+D:\Zahran\ZahranOrderWpf\BLLOrder\obj\Debug\net8.0-windows\BLLOrder.csproj.CoreCompileInputs.cache
+D:\Zahran\ZahranOrderWpf\BLLOrder\obj\Debug\net8.0-windows\BLLOrder.dll
+D:\Zahran\ZahranOrderWpf\BLLOrder\obj\Debug\net8.0-windows\refint\BLLOrder.dll
+D:\Zahran\ZahranOrderWpf\BLLOrder\obj\Debug\net8.0-windows\BLLOrder.pdb
+D:\Zahran\ZahranOrderWpf\BLLOrder\obj\Debug\net8.0-windows\ref\BLLOrder.dll

@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+
+
+	<ItemGroup>
+		<None Remove="appsettings.json" />
+		<None Remove="Assets\Icons\iC1.ico" />
+		<None Remove="Assets\Images\edit.png" />
+		<None Remove="Assets\Images\Electronics-phones-labtops.png" />
+		<None Remove="Assets\Images\Home-appliances.jfif" />
+		<None Remove="Assets\Images\Iphone-14-pro-max.png" />
+		<None Remove="Assets\Images\item.png" />
+		<None Remove="Assets\Images\LapTops.webp" />
+		<None Remove="Assets\Images\Mac-book-pro.png" />
+		<None Remove="Assets\Images\Mobile_Phones.png" />
+		<None Remove="Assets\Images\Samsung-S23.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Include="appsettings.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+	
+	
+	
+	<!--PACKAGES-->
+	<ItemGroup>  
+		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="8.0.0" />
+		<!--<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />-->
+		<!--<PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />--> 
+		<!--<PackageReference Include="Microsoft.UI.Xaml" Version="2.8.6" />--> 
+	</ItemGroup>
+ 
+	<ItemGroup>
+		<Resource Include="Assets\Icons\iC1.ico" />
+		<Resource Include="Assets\Images\edit.png">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Assets\Images\Electronics-phones-labtops.png" />
+		<Resource Include="Assets\Images\Home-appliances.jfif" />
+		<Resource Include="Assets\Images\Iphone-14-pro-max.png" />
+		<Resource Include="Assets\Images\item.png">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Assets\Images\LapTops.webp" />
+		<Resource Include="Assets\Images\Mac-book-pro.png" />
+		<Resource Include="Assets\Images\Mobile_Phones.png" />
+		<Resource Include="Assets\Images\Samsung-S23.png" />
+	</ItemGroup>
+
+</Project>

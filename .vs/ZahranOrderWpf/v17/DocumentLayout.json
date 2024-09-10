@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zahran\\ZahranOrderWpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|d:\\zahran\\zahranorderwpf\\dalorder\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|solutionrelative:dalorder\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|d:\\zahran\\zahranorderwpf\\dalorder\\interfaces\\itransactionitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|solutionrelative:dalorder\\interfaces\\itransactionitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|d:\\zahran\\zahranorderwpf\\dalorder\\interfaces\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|solutionrelative:dalorder\\interfaces\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|d:\\zahran\\zahranorderwpf\\dalorder\\interfaces\\itaxgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|solutionrelative:dalorder\\interfaces\\itaxgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|d:\\zahran\\zahranorderwpf\\dalorder\\interfaces\\imeasurementunitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|solutionrelative:dalorder\\interfaces\\imeasurementunitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|d:\\zahran\\zahranorderwpf\\dalorder\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|solutionrelative:dalorder\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|d:\\zahran\\zahranorderwpf\\dalorder\\interfaces\\iitemgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|solutionrelative:dalorder\\interfaces\\iitemgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|d:\\zahran\\zahranorderwpf\\dalorder\\interfaces\\icreditnoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|solutionrelative:dalorder\\interfaces\\icreditnoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|d:\\zahran\\zahranorderwpf\\dalorder\\services\\itemgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|solutionrelative:dalorder\\services\\itemgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|d:\\zahran\\zahranorderwpf\\dalorder\\services\\creditnoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBC2F2E-1F98-4ED3-A73D-909A69025F48}|DALOrder\\DALOrder.csproj|solutionrelative:dalorder\\services\\creditnoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4254266-2C03-4DE2-8A45-6EE10101B976}|ZahranOrderWpf\\ZahranOrderWpf.csproj|d:\\zahran\\zahranorderwpf\\zahranorderwpf\\zahranorderwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4254266-2C03-4DE2-8A45-6EE10101B976}|ZahranOrderWpf\\ZahranOrderWpf.csproj|solutionrelative:zahranorderwpf\\zahranorderwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "DALOrder\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "DALOrder\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:34:00.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITransactionItemService.cs",
+              "DocumentMoniker": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\ITransactionItemService.cs",
+              "RelativeDocumentMoniker": "DALOrder\\Interfaces\\ITransactionItemService.cs",
+              "ToolTip": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\ITransactionItemService.cs",
+              "RelativeToolTip": "DALOrder\\Interfaces\\ITransactionItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:33:55.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\ITaxService.cs",
+              "RelativeDocumentMoniker": "DALOrder\\Interfaces\\ITaxService.cs",
+              "ToolTip": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\ITaxService.cs",
+              "RelativeToolTip": "DALOrder\\Interfaces\\ITaxService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:33:46.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITaxGroupService.cs",
+              "DocumentMoniker": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\ITaxGroupService.cs",
+              "RelativeDocumentMoniker": "DALOrder\\Interfaces\\ITaxGroupService.cs",
+              "ToolTip": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\ITaxGroupService.cs",
+              "RelativeToolTip": "DALOrder\\Interfaces\\ITaxGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:33:29.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMeasurementUnitService.cs",
+              "DocumentMoniker": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\IMeasurementUnitService.cs",
+              "RelativeDocumentMoniker": "DALOrder\\Interfaces\\IMeasurementUnitService.cs",
+              "ToolTip": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\IMeasurementUnitService.cs",
+              "RelativeToolTip": "DALOrder\\Interfaces\\IMeasurementUnitService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:33:30.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\IItemService.cs",
+              "RelativeDocumentMoniker": "DALOrder\\Interfaces\\IItemService.cs",
+              "ToolTip": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\IItemService.cs",
+              "RelativeToolTip": "DALOrder\\Interfaces\\IItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:33:19.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IItemGroupService.cs",
+              "DocumentMoniker": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\IItemGroupService.cs",
+              "RelativeDocumentMoniker": "DALOrder\\Interfaces\\IItemGroupService.cs",
+              "ToolTip": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\IItemGroupService.cs",
+              "RelativeToolTip": "DALOrder\\Interfaces\\IItemGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:33:13.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemGroupService.cs",
+              "DocumentMoniker": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Services\\ItemGroupService.cs",
+              "RelativeDocumentMoniker": "DALOrder\\Services\\ItemGroupService.cs",
+              "ToolTip": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Services\\ItemGroupService.cs",
+              "RelativeToolTip": "DALOrder\\Services\\ItemGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:33:08.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreditNoteService.cs",
+              "DocumentMoniker": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Services\\CreditNoteService.cs",
+              "RelativeDocumentMoniker": "DALOrder\\Services\\CreditNoteService.cs",
+              "ToolTip": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Services\\CreditNoteService.cs",
+              "RelativeToolTip": "DALOrder\\Services\\CreditNoteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:32:49.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICreditNoteService.cs",
+              "DocumentMoniker": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\ICreditNoteService.cs",
+              "RelativeDocumentMoniker": "DALOrder\\Interfaces\\ICreditNoteService.cs",
+              "ToolTip": "D:\\Zahran\\ZahranOrderWpf\\DALOrder\\Interfaces\\ICreditNoteService.cs",
+              "RelativeToolTip": "DALOrder\\Interfaces\\ICreditNoteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:32:41.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ZahranOrderWpf",
+              "DocumentMoniker": "D:\\Zahran\\ZahranOrderWpf\\ZahranOrderWpf\\ZahranOrderWpf.csproj",
+              "RelativeDocumentMoniker": "ZahranOrderWpf\\ZahranOrderWpf.csproj",
+              "ToolTip": "D:\\Zahran\\ZahranOrderWpf\\ZahranOrderWpf\\ZahranOrderWpf.csproj",
+              "RelativeToolTip": "ZahranOrderWpf\\ZahranOrderWpf.csproj",
+              "ViewState": "AQIAABkAAAAAAAAAAIAwwDgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T11:15:47.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
