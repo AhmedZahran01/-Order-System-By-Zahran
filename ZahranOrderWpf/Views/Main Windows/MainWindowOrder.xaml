@@ -11,7 +11,9 @@
     <Grid>
 
 
-            <!--#region Row Definitions -->
+      <!--#region Nav Bar -->
+        
+        <!--#region Row Definitions -->
         <!--Home-->
         <Grid.RowDefinitions>
             <!--Header-->
@@ -20,8 +22,8 @@
         </Grid.RowDefinitions>
         <!--#endregion-->
 
-            <!--#region Header Region -->
-        
+        <!--#region Header Region -->
+
         <Grid Grid.Row="0">
 
             <!--#region  Column Definitions for Header -->
@@ -131,10 +133,15 @@
             <!--#endregion-->
 
         </Grid>
+
+        <!--#endregion-->
+     
+      <!--#endregion-->
+
+      <!--Under Nav Bar-->
         
-       <!--#endregion-->
-        
-        
-        
+    
+
+
     </Grid>
 </Window>
